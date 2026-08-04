@@ -1,0 +1,13 @@
+public class variables {
+    public static void main(String[] args) {
+        int x;
+        x=5;
+        System.out.println(x);
+        x=7;
+        System.out.println(x);
+        int y;
+        y=20;
+        System.out.println(y);
+        System.out.println(x*y);
+    }
+}
