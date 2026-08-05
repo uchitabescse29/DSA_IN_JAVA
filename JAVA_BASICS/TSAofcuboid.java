@@ -1,3 +1,5 @@
+package JAVA_BASICS;
+
 public class TSAofcuboid {
     public static void main(String[] args) {
         int l=5;

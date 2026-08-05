@@ -1,3 +1,5 @@
+package JAVA_BASICS;
+
 public class printingnumbers {
     public static void main(String[] args) {
         System.out.println(69+1);

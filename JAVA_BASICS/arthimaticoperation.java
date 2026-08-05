@@ -1,3 +1,5 @@
+package JAVA_BASICS;
+
 public class arthimaticoperation {
     public static void main(String[] args) {
         // int x=39 ,y =10;

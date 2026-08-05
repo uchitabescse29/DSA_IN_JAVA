@@ -1,3 +1,5 @@
+package JAVA_BASICS;
+
 public class variablesnaming {
     public static void main(String[] args) {
         //_ or alaphabet or $

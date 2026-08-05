@@ -1,3 +1,5 @@
+package JAVA_BASICS;
+
 public class sum {
      public static void main(String[] args) {
        int sum;

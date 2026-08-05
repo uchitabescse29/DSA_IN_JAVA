@@ -1,3 +1,5 @@
+package JAVA_BASICS;
+
 public class areaofcircle {
     public static void main(String[] args) {
         // AREA KYA HOTA HAi? pi*r*r
