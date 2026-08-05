@@ -8,5 +8,7 @@ public class input {
         double r=sc.nextDouble();
         double a=3.141592*r*r;
         System.out.println(a);
+
+        sc.close();  
     }
 }
