@@ -1,4 +1,4 @@
-public class TSAofcircle {
+public class TSAofcuboid {
     public static void main(String[] args) {
         int l=5;
         int b=8;
