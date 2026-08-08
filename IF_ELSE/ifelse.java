@@ -10,6 +10,8 @@ public class ifelse {
           }else{
             System.out.println("odd");
           }
+          sc.close();
       }
+    
 
 }
