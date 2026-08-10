@@ -10,7 +10,8 @@ public class ifelse4 {
         }else{
             System.out.println("is an integer");
         }
-
+        
     }
+
     
 }
