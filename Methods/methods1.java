@@ -12,6 +12,9 @@ public class methods1 {
         //System.out.println( Math.ceil(3.0001));
         //System.out.println( Math.min(3,9));
         //System.out.println( Math.max(3,9));
+        //System.out.println( Math.pow(3,9));
+        //System.out.println( Math.pow(0,0));
+        
        
 
 
