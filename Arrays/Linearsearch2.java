@@ -3,7 +3,7 @@ package Arrays;
 public class Linearsearch2 {
     public static void main(String[] args) {
        int[]arr={12,89,90,56,78};
-        int target=0;
+        int target=90;
         int  found=-1; //false means target array ma nhi hai 
         for(int i=0;i<arr.length;i++){
             if(arr[i]==target){
