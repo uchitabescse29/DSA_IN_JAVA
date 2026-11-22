@@ -9,5 +9,6 @@ public class builtinmethods {
             // System.out.println(s.toLowerCase());
              String s="Uchit Taliyan";
             System.out.println(s.contains("chit"));
+            System.out.println(s.startsWith("u"));
     }
 }
